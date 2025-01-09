@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://i.ibb.co.com/zbtm240/Whats-App-Image-2025-01-08-at-22-24-03-c2a762d5.jpg(https://i.ibb.co.com/Y0gd76k/workshop.jpg)" style="width: 100%; max-width: 1200px; height:"80";" alt="Profile Image" />
+  <img src="https://i.ibb.co/Y0gd76k/workshop.jpg" style="width: 100%; max-width: 1200px; height: auto;" alt="Profile Image" />
 </div>
 
 ###
@@ -14,11 +14,20 @@
 
 ###
 
-<p align="left">𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 <br><br> I am a Full Stack Developer from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.</p>
+<p align="left">
+  𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 <br><br>
+  I am a Full Stack Developer from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.
+</p>
 
 ###
 
-<h5 align="left">🌟 Aspiring Web Developer | Creating Dreams in Code<br>📚 Currently Exploring: MongoDB & Backend Development<br>🎯 Goals: Master Full Stack Development & Build Amazing Projects<br>💡 Fun Fact: MongoDB is my favorite because "I mango my love!" 🍋<br>🚀 Journey Started: 2023, and it's just the beginning!</h5>
+<h5 align="left">
+  🌟 Aspiring Web Developer | Creating Dreams in Code<br>
+  📚 Currently Exploring: MongoDB & Backend Development<br>
+  🎯 Goals: Master Full Stack Development & Build Amazing Projects<br>
+  💡 Fun Fact: MongoDB is my favorite because "I mango my love!" 🍋<br>
+  🚀 Journey Started: 2023, and it's just the beginning!
+</h5>
 
 ###
 
@@ -52,11 +61,15 @@
 
 <div align="left">
   <a href="https://www.facebook.com/hasnat.evan.733" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="" height="40" alt="facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  <a href="https://myaccount.google.com/?utm_source=chrome-profile-chooser&pli=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
+  </a>
 </div>
