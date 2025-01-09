@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://i.ibb.co.com/zbtm240/Whats-App-Image-2025-01-08-at-22-24-03-c2a762d5.jpg" style="width: 100%; max-width: 1200px; height:"80";" alt="Profile Image" />
+  <img src="https://i.ibb.co.com/zbtm240/Whats-App-Image-2025-01-08-at-22-24-03-c2a762d5.jpg(https://i.ibb.co.com/Y0gd76k/workshop.jpg)" style="width: 100%; max-width: 1200px; height:"80";" alt="Profile Image" />
 </div>
 
 ###
