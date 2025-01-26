@@ -10,13 +10,13 @@
 
 ###
 
-<h3 align="left">Full-Stack Developer</h3>
+<h3 align="left">Web Developer</h3>
 
 ###
 
 <p align="left">
   𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 <br><br>
-  I am a  from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.
+  I am a Web Developer from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.
 </p>
 
 ###
