@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Hi I'm Hasnat 👋</h3>
+<h3 align="left">Hi, I'm Hasnat 👋</h3>
 
 ###
 
@@ -16,7 +16,8 @@
 
 <p align="left">
   𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 <br><br>
-  I am a Web Developer from Bangladesh, specializing in creating visually appealing and highly functional websites that deliver exceptional user experiences.
+  I’m a passionate Web Developer from Bangladesh, dedicated to crafting engaging and user-friendly websites. 
+  I love turning ideas into reality with clean code and modern technologies.
 </p>
 
 ###
@@ -25,13 +26,13 @@
   🌟 Aspiring Web Developer | Creating Dreams in Code<br>
   📚 Currently Exploring: MongoDB & Backend Development<br>
   🎯 Goals: Master Full Stack Development & Build Amazing Projects<br>
-  💡 Fun Fact: MongoDB is my favorite because "I mango my love!" 🍋<br>
+  💡 Fun Fact: MongoDB is my favorite because "I mango my love!" 🥭<br>
   🚀 Journey Started: 2023, and it's just the beginning!
 </h5>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
@@ -51,6 +52,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ###
@@ -62,9 +69,6 @@
 <div align="left">
   <a href="https://www.facebook.com/hasnat.evan.733" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
   </a>
   <a href="mailto:hasnatevan59@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
