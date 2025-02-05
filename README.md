@@ -82,20 +82,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo" class="social-icon" />
   </a>
 </div>
-
-<!-- Add AOS Library -->
-<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
-
-<!-- Add CSS for Hover Effects -->
-<style>
-  .tech-icon:hover {
-    transform: scale(1.1);
-  }
-  .social-icon:hover {
-    transform: scale(1.1);
-    filter: brightness(1.2);
-  }
-</style>
