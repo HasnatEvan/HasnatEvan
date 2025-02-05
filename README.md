@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/hasnat-evan-web/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo" class="social-icon" />
   </a>
-   <a href="https://your-portfolio-link.com" target="_blank">
+   <a href="https://neon-crepe-750faf.netlify.app/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Website.svg" width="50" height="50" alt="portfolio logo" class="social-icon" />
   </a>
 </div>
