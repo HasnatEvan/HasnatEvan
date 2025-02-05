@@ -21,6 +21,12 @@
 </p>
 
 ###
+<h5 align="left">
+  🔭 I’m Working on a Tourism Website<br>
+  🌱 I’m currently learning Next.js<br>
+  ⚡ Fun fact: I think I am funny
+</h5>
+
 
 <h5 align="left">
   🌟 Aspiring Web Developer | Creating Dreams in Code<br>
